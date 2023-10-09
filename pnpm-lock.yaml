@@ -68,8 +68,8 @@ devDependencies:
     specifier: ^8.20.0
     version: 8.20.0
   eslint-plugin-hydrogen:
-    specifier: 0.12.2
-    version: 0.12.2(eslint@8.20.0)(typescript@4.9.5)
+    specifier: 0.12.3
+    version: 0.12.3(eslint@8.20.0)(typescript@4.9.5)
   postcss:
     specifier: ^8.4.31
     version: 8.4.31
@@ -5639,8 +5639,8 @@ packages:
       ignore: 5.2.4
     dev: true
 
-  /eslint-plugin-hydrogen@0.12.2(eslint@8.20.0)(typescript@4.9.5):
-    resolution: {integrity: sha512-lOSvBbyUsJ7f2ljcdK/PHDqO5Woe1E1C4S56an9vCh0LMWa25FCTzu6YGzA9O5yu/gipn3nRZuuUvTPYPNtOPw==}
+  /eslint-plugin-hydrogen@0.12.3(eslint@8.20.0)(typescript@4.9.5):
+    resolution: {integrity: sha512-DE9unAT6ho24w8vLhbEV99n2sZQEX7gKUwnms6sNczpj6d4furkThin/E0uHpnOxAmD6YWKn/mkofPXJeFrn5g==}
     peerDependencies:
       eslint: '>=8.0.0'
     dependencies:
